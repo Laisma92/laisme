@@ -1,6 +1,5 @@
-👋 Olá, eu sou Lais!
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Apaixonada por tecnologia, programação, inteligência artificial e resolução de problemas  
-🚀 Em busca de conhecimento e experiências reais na área de desenvolvimento
-📌 Sou uma estudante curiosa e determinada,dando os primeiros passos no mundo da tecnologia. Estou aprendendo a construir soluções com código e entender como sistemas funcionam por trás das telas.
-# laisme
+Uma calculadora simples desenvolvida em HTML, CSS e JavaScript. Este foi meu primeiro projeto prático e teve como objetivo aplicar os conceitos básicos de programação, lógica e estrutura de páginas web.
+
+🎯 Objetivo do projeto
+uma calculadora funcional que realiza operações básicas (adição, subtração, multiplicação e divisão) com uma interface amigável e responsiva.
+
